@@ -1,7 +1,7 @@
 # Develop Branch
-* hello develop
+* hello! develop
 * git 중요합니다.
 
 ```
-var person = {}
+var person = {name: 'kenu'}
 ```
